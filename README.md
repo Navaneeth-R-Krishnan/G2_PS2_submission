@@ -17,7 +17,7 @@ This project aims to extract customer feature preferences from G2 reviews using 
 
 3. Run the script:
     ```bash
-    python g2_review_feature_extraction.py
+    python G2_submission.py
     ```
 
 ## Script Breakdown
