@@ -53,4 +53,4 @@ This project aims to extract customer feature preferences from G2 reviews using 
 - Fine-tune the BERT model with your dataset for improved performance.
 
 ## Contributors
-Rithwik B     R Navaneeth Krishnan
+Rithwik B <br> R Navaneeth Krishnan
