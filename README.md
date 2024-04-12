@@ -1,4 +1,4 @@
-G2 Review Feature Extraction with BERT and Wordcloud
-Overview
-This project outlines a Deep Learning approach utilizing BERT (Bidirectional Encoder Representations from Transformers) to extract customer feature preferences from G2 reviews. 
-BERT is a powerful language model capable of understanding contextual relationships in text data, making it suitable for this task.
+# G2 Review Feature Extraction with BERT and Wordcloud
+
+# Overview
+This project aims to extract customer feature preferences from G2 reviews using a Deep Learning approach centered around BERT (Bidirectional Encoder Representations from Transformers). BERT, being a robust language model, is adept at grasping contextual relationships within text data, rendering it well-suited for the task at hand.
